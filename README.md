@@ -45,7 +45,7 @@
 <br/>
 
 <a href="https://github.com/KamillaN88" title="Perfil de Kamilla">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KamillaN88&theme=dracula&show_icons=true" />
 </a>
 
 ## Onde me encontrar
